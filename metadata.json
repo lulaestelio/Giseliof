@@ -1,0 +1,8 @@
+{
+  "name": "Giseli Chorro",
+  "description": "Página oficial de links exclusivos da Giseli",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

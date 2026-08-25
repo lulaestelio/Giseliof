@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { Instagram, ArrowRight, ExternalLink, Check, Copy } from 'lucide-react';
-import avatarImg from './assets/images/profile_new.jpg';
+import avatarImg from './assets/images/profile.jpg';
 
 export default function App() {
   const [copied, setCopied] = useState(false);

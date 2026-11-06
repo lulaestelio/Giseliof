@@ -98,7 +98,7 @@ export default function App() {
           {/* Privacy Button (Highlighted Solid Red) */}
           <a
             id="button-privacy"
-            href="https://privacy.com.br/checkout/Loirinhasafada1515"
+            href="https://privacy.com.br/checkout/giselichorro/checkout"
             target="_blank"
             rel="noopener noreferrer"
             onClick={(e) => {
